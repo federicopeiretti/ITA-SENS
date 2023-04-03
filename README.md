@@ -16,7 +16,23 @@ ITA-SENS consists of 15 144 Italian posts, of which 8 419 are labeled as sensiti
 
 Exactly as was done in previous studies (Correa et al.), for the annotation of our corpus we rely on the anonymity assumption, where the content is considered sensitive if the user has chosen to publish it anonymously, hiding their real identity or if they have made it visible to only some friends. If the content is visible to anyone or the author can be identified from it, then it is considered non-sensitive. After a careful reading and analysis of the collected posts, we have observed that, effectively those coming from Insegreto contain sensitive information that could harm the privacy of both the author and other identifiable people. Furthermore, they deal with sensitive topics and are published in a totally anonymous way. For these reasons, we label all Insegreto posts as privacy-sensitive. On the other hand, we consider all tweets in the corpus as non-sensitive because they come from public Twitter pages and profiles, following the anonymity assumption. Although it has been shown that this assumption is simplistic (Bioglio et al.), we rely on it for this work, as the main goal is to study whether multilingual text analysis approaches can compete with monolingual ones for the specific task of content sensitivity analysis.
 
-
 ## License
 
-This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ 
+This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially. 
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ 
