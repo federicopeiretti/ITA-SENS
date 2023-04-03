@@ -12,9 +12,11 @@ The statistics about this dataset are shown in Table~\ref{tab-dataset}.
 
 ITA-SENS consists of 15 144 Italian posts, of which 8 419 are labeled as sensitive and 6 725 as non-sensitive. We split it randomly by putting 55\% of the data into the training set; 25\% into the validation set and the remaining 20\% into the test set.
 
-##Annotation
+## Annotation
+
 Exactly as was done in previous studies (Correa et al.), for the annotation of our corpus we rely on the anonymity assumption, where the content is considered sensitive if the user has chosen to publish it anonymously, hiding their real identity or if they have made it visible to only some friends. If the content is visible to anyone or the author can be identified from it, then it is considered non-sensitive. After a careful reading and analysis of the collected posts, we have observed that, effectively those coming from Insegreto contain sensitive information that could harm the privacy of both the author and other identifiable people. Furthermore, they deal with sensitive topics and are published in a totally anonymous way. For these reasons, we label all Insegreto posts as privacy-sensitive. On the other hand, we consider all tweets in the corpus as non-sensitive because they come from public Twitter pages and profiles, following the anonymity assumption. Although it has been shown that this assumption is simplistic (Bioglio et al.), we rely on it for this work, as the main goal is to study whether multilingual text analysis approaches can compete with monolingual ones for the specific task of content sensitivity analysis.
 
 
-##License
+## License
+
 This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
