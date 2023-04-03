@@ -19,4 +19,4 @@ Exactly as was done in previous studies (Correa et al.), for the annotation of o
 
 ## License
 
-This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
+This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ 
