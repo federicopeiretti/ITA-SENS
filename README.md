@@ -8,8 +8,6 @@ ITA-SENS is a new dataset consisting of more than 15 000 social media posts writ
 
 As anonymous source, we take into consideration posts from Insegreto (the Italian locution "in segreto" means "secretly" in English), an Italian social network that allows people to share their lives, secrets and opinions on different topics, in a totally anonymous way. Posts are organized into several categories ranging from school to health, from politics to religion, from love to sexuality. As such, this is a valuable source of sensitive posts.
 
-The statistics about this dataset are shown in Table~\ref{tab-dataset}.
-
 ITA-SENS consists of 15 144 Italian posts, of which 8 419 are labeled as sensitive and 6 725 as non-sensitive. We split it randomly by putting 55\% of the data into the training set; 25\% into the validation set and the remaining 20\% into the test set.
 
 ## Annotation
